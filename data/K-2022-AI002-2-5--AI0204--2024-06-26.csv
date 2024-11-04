@@ -1,0 +1,401 @@
+schluessel;regionaleinheit;wert
+01001;Flensburg;11.2
+01002;Kiel;10.5
+01003;Lübeck;7.9
+01004;Neumünster;7.8
+01051;Dithmarschen;7.1
+01053;Herzogtum Lauenburg;6.5
+01054;Nordfriesland;6.9
+01055;Ostholstein;6
+01056;Pinneberg;6.7
+01057;Plön;6
+01058;Rendsburg-Eckernförde;6.6
+01059;Schleswig-Flensburg;6.3
+01060;Segeberg;6.6
+01061;Steinburg;6.7
+01062;Stormarn;6.3
+02000;Hamburg;7.8
+03101;Braunschweig;8.6
+03102;Salzgitter;7.5
+03103;Wolfsburg;6.7
+03151;Gifhorn;6.5
+03153;Goslar;7.1
+03154;Helmstedt;6.2
+03155;Northeim;6.7
+03157;Peine;6.9
+03158;Wolfenbüttel;6.7
+03159;Göttingen;8.5
+03241;Region Hannover;7.7
+03251;Diepholz;6.9
+03252;Hameln-Pyrmont;6.7
+03254;Hildesheim;7.7
+03255;Holzminden;7
+03256;Nienburg (Weser);7.3
+03257;Schaumburg;6.9
+03351;Celle;6.8
+03352;Cuxhaven;6.3
+03353;Harburg;6.7
+03354;Lüchow-Dannenberg;6.1
+03355;Lüneburg;8.1
+03356;Osterholz;6.4
+03357;Rotenburg (Wümme);7.5
+03358;Heidekreis;7.6
+03359;Stade;7.2
+03360;Uelzen;6.6
+03361;Verden;6.9
+03401;Delmenhorst;7.6
+03402;Emden;8.6
+03403;Oldenburg (Oldb);9.5
+03404;Osnabrück;11.4
+03405;Wilhelmshaven;7.9
+03451;Ammerland;7
+03452;Aurich;7.2
+03453;Cloppenburg;8.8
+03454;Emsland;7.8
+03455;Friesland;6.5
+03456;Grafschaft Bentheim;7.4
+03457;Leer;7.3
+03458;Oldenburg, Landkreis;7.2
+03459;Osnabrück, Landkreis;7.4
+03460;Vechta;8.8
+03461;Wesermarsch;7.1
+03462;Wittmund;6.8
+04011;Bremen;8.2
+04012;Bremerhaven;8.2
+05111;Düsseldorf;7.1
+05112;Duisburg;7.7
+05113;Essen;7.3
+05114;Krefeld;7.3
+05116;Mönchengladbach;7.8
+05117;Mülheim an der Ruhr;6.5
+05119;Oberhausen;6.7
+05120;Remscheid;7.1
+05122;Solingen;7.1
+05124;Wuppertal;8
+05154;Kleve;7.5
+05158;Mettmann;6.5
+05162;Rhein-Kreis Neuss;6.6
+05166;Viersen;6.5
+05170;Wesel;6.4
+05314;Bonn;9.7
+05315;Köln;8.1
+05316;Leverkusen;7.1
+05334;Städteregion Aachen;10.3
+05358;Düren;7.3
+05362;Rhein-Erft-Kreis;7
+05366;Euskirchen;6.9
+05370;Heinsberg;6.9
+05374;Oberbergischer Kreis;7.1
+05378;Rheinisch-Bergischer Kreis;6.5
+05382;Rhein-Sieg-Kreis;7.1
+05512;Bottrop;6.8
+05513;Gelsenkirchen;7.7
+05515;Münster;12.2
+05554;Borken;7.5
+05558;Coesfeld;6.9
+05562;Recklinghausen;6.9
+05566;Steinfurt;7.7
+05570;Warendorf;7.4
+05711;Bielefeld;9
+05754;Gütersloh;7.7
+05758;Herford;7.2
+05762;Höxter;7.1
+05766;Lippe;7.3
+05770;Minden-Lübbecke;7.3
+05774;Paderborn;8.7
+05911;Bochum;8.3
+05913;Dortmund;8.1
+05914;Hagen;7.7
+05915;Hamm;8.1
+05916;Herne;7.8
+05954;Ennepe-Ruhr-Kreis;6.6
+05958;Hochsauerlandkreis;7
+05962;Märkischer Kreis;7
+05966;Olpe;7.2
+05970;Siegen-Wittgenstein;7.7
+05974;Soest;7.1
+05978;Unna;6.9
+06411;Darmstadt;10.9
+06412;Frankfurt am Main;7.8
+06413;Offenbach am Main;8.2
+06414;Wiesbaden;8.2
+06431;Bergstraße;6.6
+06432;Darmstadt-Dieburg;7
+06433;Groß-Gerau;7.5
+06434;Hochtaunuskreis;6.4
+06435;Main-Kinzig-Kreis;7
+06436;Main-Taunus-Kreis;6.7
+06437;Odenwaldkreis;6.6
+06438;Offenbach;7.1
+06439;Rheingau-Taunus-Kreis;6.7
+06440;Wetteraukreis;6.9
+06531;Gießen;9.7
+06532;Lahn-Dill-Kreis;7
+06533;Limburg-Weilburg;7.2
+06534;Marburg-Biedenkopf;10.1
+06535;Vogelsbergkreis;6.5
+06611;Kassel;9.2
+06631;Fulda;7.8
+06632;Hersfeld-Rotenburg;6.8
+06633;Kassel, Landkreis;6.3
+06634;Schwalm-Eder-Kreis;6.6
+06635;Waldeck-Frankenberg;7
+06636;Werra-Meißner-Kreis;6.7
+07111;Koblenz;8.8
+07131;Ahrweiler;6.5
+07132;Altenkirchen (Westerwald);6.7
+07133;Bad Kreuznach;6.6
+07134;Birkenfeld;6.8
+07135;Cochem-Zell;6.7
+07137;Mayen-Koblenz;6.8
+07138;Neuwied;7
+07140;Rhein-Hunsrück-Kreis;6.6
+07141;Rhein-Lahn-Kreis;6.3
+07143;Westerwaldkreis;6.6
+07211;Trier;10.4
+07231;Bernkastel-Wittlich;6.5
+07232;Eifelkreis Bitburg-Prüm;6.8
+07233;Vulkaneifel;6.5
+07235;Trier-Saarburg;6.6
+07311;Frankenthal (Pfalz);7.1
+07312;Kaiserslautern;9.2
+07313;Landau in der Pfalz;10.2
+07314;Ludwigshafen am Rhein;8
+07315;Mainz;10.4
+07316;Neustadt an der Weinstraße;6.5
+07317;Pirmasens;7.2
+07318;Speyer;7.4
+07319;Worms;8
+07320;Zweibrücken;7.2
+07331;Alzey-Worms;6.7
+07332;Bad Dürkheim;5.9
+07333;Donnersbergkreis;6.7
+07334;Germersheim;6.9
+07335;Kaiserslautern, Landkreis;6.4
+07336;Kusel;6.5
+07337;Südliche Weinstraße;6.1
+07338;Rhein-Pfalz-Kreis;6.1
+07339;Mainz-Bingen;6.6
+07340;Südwestpfalz;5.8
+08111;Stuttgart;8.2
+08115;Böblingen;6.9
+08116;Esslingen;7.3
+08117;Göppingen;7.2
+08118;Ludwigsburg;7
+08119;Rems-Murr-Kreis;7.1
+08121;Heilbronn;8.6
+08125;Heilbronn, Landkreis;7.2
+08126;Hohenlohekreis;7.4
+08127;Schwäbisch Hall;7.4
+08128;Main-Tauber-Kreis;6.9
+08135;Heidenheim;7.4
+08136;Ostalbkreis;7.8
+08211;Baden-Baden;6.4
+08212;Karlsruhe;10
+08215;Karlsruhe, Landkreis;6.8
+08216;Rastatt;6.8
+08221;Heidelberg;13.4
+08222;Mannheim;9.6
+08225;Neckar-Odenwald-Kreis;7.2
+08226;Rhein-Neckar-Kreis;6.8
+08231;Pforzheim;8.2
+08235;Calw;7.2
+08236;Enzkreis;7.1
+08237;Freudenstadt;7.5
+08311;Freiburg im Breisgau;11.3
+08315;Breisgau-Hochschwarzwald;6.9
+08316;Emmendingen;6.8
+08317;Ortenaukreis;7.2
+08325;Rottweil;7.1
+08326;Schwarzwald-Baar-Kreis;7.1
+08327;Tuttlingen;7.5
+08335;Konstanz;9
+08336;Lörrach;6.7
+08337;Waldshut;6.9
+08415;Reutlingen;7.4
+08416;Tübingen;10.5
+08417;Zollernalbkreis;7
+08421;Ulm;9.5
+08425;Alb-Donau-Kreis;7.5
+08426;Biberach;7.3
+08435;Bodenseekreis;6.9
+08436;Ravensburg;7.9
+08437;Sigmaringen;7.8
+09161;Ingolstadt;7.9
+09162;München;8.1
+09163;Rosenheim;7.9
+09171;Altötting;7.2
+09172;Berchtesgadener Land;7
+09173;Bad Tölz-Wolfratshausen;6.9
+09174;Dachau;7.1
+09175;Ebersberg;7.3
+09176;Eichstätt;7.6
+09177;Erding;7.7
+09178;Freising;8.4
+09179;Fürstenfeldbruck;7.1
+09180;Garmisch-Partenkirchen;6.8
+09181;Landsberg am Lech;6.9
+09182;Miesbach;6.6
+09183;Mühldorf a.Inn;7.3
+09184;München, Landkreis;7.6
+09185;Neuburg-Schrobenhausen;7.3
+09186;Pfaffenhofen a.d.Ilm;7.2
+09187;Rosenheim, Landkreis;7
+09188;Starnberg;6.9
+09189;Traunstein;6.8
+09190;Weilheim-Schongau;6.8
+09261;Landshut;7.9
+09262;Passau;10.8
+09263;Straubing;8
+09271;Deggendorf;8.1
+09272;Freyung-Grafenau;7.2
+09273;Kelheim;7.5
+09274;Landshut, Landkreis;7.2
+09275;Passau, Landkreis;7
+09276;Regen;7
+09277;Rottal-Inn;7.4
+09278;Straubing-Bogen;7.2
+09279;Dingolfing-Landau;7.4
+09361;Amberg;7.4
+09362;Regensburg;9.8
+09363;Weiden i.d.OPf.;8
+09371;Amberg-Sulzbach;6.9
+09372;Cham;7
+09373;Neumarkt i.d.OPf.;7.3
+09374;Neustadt a.d.Waldnaab;7
+09375;Regensburg, Landkreis;6.9
+09376;Schwandorf;7.3
+09377;Tirschenreuth;6.6
+09461;Bamberg;9.1
+09462;Bayreuth;12
+09463;Coburg;8
+09464;Hof;8
+09471;Bamberg, Landkreis;6.8
+09472;Bayreuth, Landkreis;6.5
+09473;Coburg, Landkreis;6.3
+09474;Forchheim;6.7
+09475;Hof, Landkreis;6.5
+09476;Kronach;6.4
+09477;Kulmbach;6.6
+09478;Lichtenfels;6.6
+09479;Wunsiedel i.Fichtelgebirge;6.5
+09561;Ansbach;7.9
+09562;Erlangen;10.1
+09563;Fürth;7.3
+09564;Nürnberg;7.9
+09565;Schwabach;6.9
+09571;Ansbach, Landkreis;7.2
+09572;Erlangen-Höchstadt;6.6
+09573;Fürth, Landkreis;6.3
+09574;Nürnberger Land;6.5
+09575;Neustadt a.d.Aisch-Bad Windsheim;7.1
+09576;Roth;6.7
+09577;Weißenburg-Gunzenhausen;7.1
+09661;Aschaffenburg;7.4
+09662;Schweinfurt;8.7
+09663;Würzburg;11.6
+09671;Aschaffenburg, Landkreis;6.5
+09672;Bad Kissingen;6.4
+09673;Rhön-Grabfeld;6.9
+09674;Haßberge;6.9
+09675;Kitzingen;7
+09676;Miltenberg;6.8
+09677;Main-Spessart;6.4
+09678;Schweinfurt, Landkreis;7
+09679;Würzburg, Landkreis;6.7
+09761;Augsburg;8.7
+09762;Kaufbeuren;7.3
+09763;Kempten (Allgäu);8.1
+09764;Memmingen;7.5
+09771;Aichach-Friedberg;7
+09772;Augsburg, Landkreis;6.8
+09773;Dillingen a.d.Donau;7.3
+09774;Günzburg;7.5
+09775;Neu-Ulm;7.6
+09776;Lindau (Bodensee);6.8
+09777;Ostallgäu;7.1
+09778;Unterallgäu;7.3
+09779;Donau-Ries;7.4
+09780;Oberallgäu;6.6
+10041;Regionalverband Saarbrücken;7.5
+10042;Merzig-Wadern;6.4
+10043;Neunkirchen;6.4
+10044;Saarlouis;6.4
+10045;Saarpfalz-Kreis;6.6
+10046;St. Wendel;5.9
+11000;Berlin;7.2
+12051;Brandenburg an der Havel;5.9
+12052;Cottbus;6.9
+12053;Frankfurt (Oder);7.2
+12054;Potsdam;7.5
+12060;Barnim;5.4
+12061;Dahme-Spreewald;5.5
+12062;Elbe-Elster;4.7
+12063;Havelland;5.9
+12064;Märkisch-Oderland;5
+12065;Oberhavel;5.8
+12066;Oberspreewald-Lausitz;4.9
+12067;Oder-Spree;5.1
+12068;Ostprignitz-Ruppin;5.4
+12069;Potsdam-Mittelmark;5.6
+12070;Prignitz;5.2
+12071;Spree-Neiße;4.4
+12072;Teltow-Fläming;5.8
+12073;Uckermark;5
+13003;Rostock;9
+13004;Schwerin;7.1
+13071;Mecklenburgische Seenplatte;5.4
+13072;Rostock, Landkreis;4.8
+13073;Vorpommern-Rügen;5.4
+13074;Nordwestmecklenburg;5.6
+13075;Vorpommern-Greifswald;6.4
+13076;Ludwigslust-Parchim;5
+14511;Chemnitz;7
+14521;Erzgebirgskreis;5.3
+14522;Mittelsachsen;5.4
+14523;Vogtlandkreis;5.2
+14524;Zwickau;5.5
+14612;Dresden;8.5
+14625;Bautzen;4.9
+14626;Görlitz;5.1
+14627;Meißen;5.2
+14628;Sächsische Schweiz-Osterzgebirge;5.2
+14713;Leipzig;9.2
+14729;Leipzig, Landkreis;4.9
+14730;Nordsachsen;5.4
+15001;Dessau-Roßlau;5.2
+15002;Halle (Saale);9.5
+15003;Magdeburg;8.5
+15081;Altmarkkreis Salzwedel;5.2
+15082;Anhalt-Bitterfeld;5.3
+15083;Börde;4.9
+15084;Burgenlandkreis;5.2
+15085;Harz;5.5
+15086;Jerichower Land;4.9
+15087;Mansfeld-Südharz;4.9
+15088;Saalekreis;5.2
+15089;Salzlandkreis;5.3
+15090;Stendal;5.3
+15091;Wittenberg;4.9
+16051;Erfurt;8.2
+16052;Gera;6
+16053;Jena;9.8
+16054;Suhl;6.5
+16055;Weimar;8.3
+16061;Eichsfeld;5.6
+16062;Nordhausen;6.1
+16063;Wartburgkreis;5.5
+16064;Unstrut-Hainich-Kreis;5.7
+16065;Kyffhäuserkreis;5.3
+16066;Schmalkalden-Meiningen;5.6
+16067;Gotha;5.9
+16068;Sömmerda;5.3
+16069;Hildburghausen;5.1
+16070;Ilm-Kreis;6.1
+16071;Weimarer Land;5.5
+16072;Sonneberg;5.6
+16073;Saalfeld-Rudolstadt;5.1
+16074;Saale-Holzland-Kreis;5.6
+16075;Saale-Orla-Kreis;5.4
+16076;Greiz;4.7
+16077;Altenburger Land;5.1

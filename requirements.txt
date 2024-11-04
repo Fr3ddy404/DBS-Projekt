@@ -1,0 +1,8 @@
+pony
+psycopg2
+jupyterlab
+pandas
+seaborn
+numpy
+colorcet
+geopandas
